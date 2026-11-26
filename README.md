@@ -8,13 +8,17 @@ Electrical engineer from Baghdad working on **embedded systems** — from schema
 
 ---
 
-### Projects
+### How my work has grown
 
-| Project | What it is |
-|---|---|
-| [AVR MCU Evaluation Board — PCB](https://github.com/hussamalbahadli/AVR-MCU-Evaluation-Board-PCB) | 230 × 200 mm, 2-layer ATmega32 training board with on-board USB programmer, LCD, 7-segment, keypad, RS232/RS485, RTC, EEPROM and motor drivers |
-| [AVR MCU Evaluation Board — Drivers](https://github.com/hussamalbahadli/AVR-MCU-Evaluation-Board-DES) | Layered MCAL/HAL drivers for that board, with examples and Proteus simulations |
-| [STM32F7 Drivers](https://github.com/hussamalbahadli/STM32F7-MCU-Evaluation-Board-DES) | Bare-metal drivers for the STM32F746 (Cortex-M7) on a NUCLEO-F746ZG — work in progress |
+| Year | Project | What changed |
+|---|---|---|
+| 2022 | [AFC — Automatic Fan Controller](https://github.com/hussamalbahadli/AFC-Automatic-Fan-Controller) v1 | First product: Arduino prototype, then a PIC16F887 board with software PWM and a Beta-model thermistor |
+| 2024 | AFC v2 | Redesigned on ATmega328P in Altium — 2-layer, 40 × 55 mm, built and used in the field |
+| 2024 | [AVR MCU Evaluation Board — PCB](https://github.com/hussamalbahadli/AVR-MCU-Evaluation-Board-PCB) | 230 × 200 mm training board with on-board programmer, displays, comms and motor drivers |
+| 2024 | [AVR drivers](https://github.com/hussamalbahadli/AVR-MCU-Evaluation-Board-DES) | Layered MCAL/HAL drivers written from scratch, with examples and Proteus simulations |
+| 2026 | [STM32F7 drivers](https://github.com/hussamalbahadli/STM32F7-MCU-Evaluation-Board-DES) | Same architecture on a Cortex-M7, written from the reference manual — no HAL — work in progress |
+
+Each project's README has a *Lessons learned* section — what I'd do differently now, and do in newer designs.
 
 ---
 
