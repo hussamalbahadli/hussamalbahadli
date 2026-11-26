@@ -18,7 +18,7 @@ Electrical engineer from Baghdad working on **embedded systems** — from schema
 | 2024 | [AVR drivers](https://github.com/hussamalbahadli/AVR-MCU-Evaluation-Board-DES) | Layered MCAL/HAL drivers written from scratch, with examples and Proteus simulations |
 | 2026 | [STM32F7 drivers](https://github.com/hussamalbahadli/STM32F7-MCU-Evaluation-Board-DES) | Same architecture on a Cortex-M7, written from the reference manual — no HAL — work in progress |
 
-Each project's README has a *Lessons learned* section — what I'd do differently now, and do in newer designs.
+Older projects include a *Lessons learned* section — what I'd do differently now, and already do in newer designs.
 
 ---
 
