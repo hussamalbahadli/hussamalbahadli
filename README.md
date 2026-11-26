@@ -28,4 +28,4 @@ Older projects include a *Lessons learned* section — what I'd do differently n
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/hussam-albahadli-a12286451)
+📫 [LinkedIn](https://www.linkedin.com/in/hussam-ali-a12286451)
